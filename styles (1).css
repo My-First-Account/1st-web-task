@@ -1,0 +1,19 @@
+#photo{
+    border-width: 2px solid;  
+    border-color: blue; 
+  
+}
+#Name h1{
+    color:blue;
+    margin: 4px;
+    
+}
+.list>h2{
+    color:rgba(69, 69, 69, 0.88);
+    margin: 4px;
+    
+}
+ div{
+     margin: 4px ;
+     
+ }
