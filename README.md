@@ -1,3 +1,3 @@
 # 1st-web-task
-1st course of Front-End Developer Programme series. 
+It's a 1st course assignments of Front-End Developer Programme series. 
 Introduction to Front-End Development 
